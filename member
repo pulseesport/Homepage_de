@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mitglieder - Pulse eSports Clan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        nav {
+            background-color: #444;
+            padding: 0.5em;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+            border-radius: 5px;
+        }
+        section {
+            padding: 2em;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pulse eSports Clan</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">Über uns</a>
+        <a href="members.html">Mitglieder</a>
+    </nav>
+    <section>
+        <h2>Unsere Mitglieder</h2>
+
+        <h3>Clan Owner</h3>
+        <ul>
+            <li>Owner 1 - Name</li>
+            <li>Owner 2 - Name</li>
+        </ul>
+
+        <h3>Team Mitglieder</h3>
+        <ul>
+            <li>Teammitglied 1 - Name</li>
+            <li>Teammitglied 2 - Name</li>
+        </ul>
+
+        <h3>Spieler</h3>
+        <ul>
+            <li>Spieler 1 - Name</li>
+            <li>Spieler 2 - Name</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Pulse eSports Clan. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
